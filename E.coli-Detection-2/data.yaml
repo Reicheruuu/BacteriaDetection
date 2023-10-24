@@ -1,0 +1,12 @@
+names:
+- E. coli
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: e.coli-detection
+  url: https://universe.roboflow.com/skripsi-ecoli/e.coli-detection/dataset/2
+  version: 2
+  workspace: skripsi-ecoli
+test: ../test/images
+train: E.coli-Detection-2/train/images
+val: E.coli-Detection-2/valid/images
